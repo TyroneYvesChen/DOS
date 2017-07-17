@@ -1,7 +1,7 @@
 # DOS
 ## gzip
 
-使用方法
+使用方法 将对应exe文件放到C:\Windows\System32目录下
 ``` gzip
 	1、gzip *   该文件夹目录下的每个文件都压缩成.gz
 	2、gzip -dv * 该文件夹目录下的每个文件解压缩
